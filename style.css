@@ -6,7 +6,7 @@
     }
 
     body {
-        background: linear-gradient(135deg, #342f47, #25133f);
+        background: linear-gradient(145deg, #2f3247, #e23e38);
         min-height: 100vh;
         display: flex;
         justify-content: center;
@@ -103,7 +103,7 @@
     .btn {
         display: inline-block;
         text-decoration: none;
-        background: linear-gradient(90deg, #4b7bec, #a55eea);
+        background: linear-gradient(90deg, #ec4b4b, #9279e2);
         color: white;
         padding: 10px 20px;
         border-radius: 25px;
